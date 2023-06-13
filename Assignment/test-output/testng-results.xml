@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32494" started-at="2023-06-13T16:54:08 IST" finished-at="2023-06-13T16:54:41 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32494" started-at="2023-06-13T16:54:08 IST" finished-at="2023-06-13T16:54:41 IST">
+      <class name="Assignment.SwagLabs">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Assignment.SwagLabs@59906517]" name="setup" duration-ms="4539" started-at="2023-06-13T16:54:08 IST" finished-at="2023-06-13T16:54:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:1, instance:Assignment.SwagLabs@59906517]" name="login" duration-ms="3455" started-at="2023-06-13T16:54:13 IST" finished-at="2023-06-13T16:54:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="sort()[pri:2, instance:Assignment.SwagLabs@59906517]" name="sort" duration-ms="3167" started-at="2023-06-13T16:54:16 IST" finished-at="2023-06-13T16:54:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sort -->
+        <test-method status="PASS" signature="addtocart()[pri:3, instance:Assignment.SwagLabs@59906517]" name="addtocart" duration-ms="3420" started-at="2023-06-13T16:54:19 IST" finished-at="2023-06-13T16:54:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method status="PASS" signature="removefromcart()[pri:4, instance:Assignment.SwagLabs@59906517]" name="removefromcart" duration-ms="4311" started-at="2023-06-13T16:54:23 IST" finished-at="2023-06-13T16:54:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removefromcart -->
+        <test-method status="PASS" signature="checkout()[pri:5, instance:Assignment.SwagLabs@59906517]" name="checkout" duration-ms="6562" started-at="2023-06-13T16:54:27 IST" finished-at="2023-06-13T16:54:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method status="PASS" signature="backtoproducts()[pri:6, instance:Assignment.SwagLabs@59906517]" name="backtoproducts" duration-ms="3096" started-at="2023-06-13T16:54:34 IST" finished-at="2023-06-13T16:54:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backtoproducts -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:Assignment.SwagLabs@59906517]" name="logout" duration-ms="3875" started-at="2023-06-13T16:54:37 IST" finished-at="2023-06-13T16:54:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- Assignment.SwagLabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
